@@ -1,0 +1,21 @@
+.container{
+   display: flex;
+   justify-content: center;
+}
+
+.home{
+  display: flex;
+  margin-left: 450px;
+  margin-bottom: 250px;
+}
+
+.programming{
+  display: flex;
+  margin-left: 300px;
+  margin-bottom: 890px;
+}
+
+.asd{
+  display: flex;
+  margin-bottom: 50px;
+}
